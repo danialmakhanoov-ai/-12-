@@ -1,0 +1,7 @@
+lab12-monitoring-elk/
+├── docker-compose.yml          # Prometheus + Grafana қосу үшін
+├── prometheus.yml              # Prometheus баптауы
+├── docker-compose-elk.yml      # ELK (Elasticsearch, Logstash, Kibana) қосу үшін
+├── logstash.conf               # Logstash пайплайны
+├── app.py                      # Python скрипті
+└── README.md                   # Отчет және сұрақтардың жауабы
